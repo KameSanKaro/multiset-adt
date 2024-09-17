@@ -4,7 +4,7 @@
 public abstract class MultiSet {
 
     /**
-     * Add the given item to this multiset.
+     * Add the given item to this multiset. yay
      *
      * @param item the item to add
      */
